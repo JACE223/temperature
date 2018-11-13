@@ -1,0 +1,10 @@
+Package: temperature
+Title: Convert units between Celsius, Fahrenhei, and Kelvin
+Version: 0.0.0.9000
+Authors@R: person("Juan Carlo", "Ala", email = "jala@student.unimelb.edu.au", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+Depends: R (>= 3.5.1)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
